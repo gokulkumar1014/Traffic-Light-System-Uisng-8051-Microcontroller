@@ -23,7 +23,7 @@ Then, west signal glows green for 10 seconds, the north signal would glow amber 
 #### PHASE V: Pedestrian –
 During the entire process mentioned above, it glow red at all the pedestrian signals (NESW). After the completion of one complete traffic signal cycle, all the pedestrian lights glows green for 30 seconds for the people to walk safely, while all the traffic signals in all directions glow red.
 
-### simulation [images](https://drive.google.com/drive/folders/1Ww861JC95etuLu-qQsqSPUE1GqnWFCv2?usp=sharing)
+### simulation [images](https://drive.google.com/drive/u/2/folders/1_xp1m0vDc4zCt8cIUw_383FoL6fWVVXT)
 
 ## Conclusion
 In this project we have implemented 4-way Traffic Light control system. This project is cost effective. Implementation of this project in present day will effectively solve the traffic congestion which is a severe problem in many modern cities all over the world.
